@@ -1,0 +1,7 @@
+Array
+(
+    [status] => 1
+    [fusToken] => 890111
+    [amountPaid] => 1000
+    [reference] => ipu8
+)
